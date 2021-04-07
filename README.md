@@ -1,2 +1,2 @@
 # algebra
-algebra web
+技术栈使用 springboot + vue
